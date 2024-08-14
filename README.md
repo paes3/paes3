@@ -1,7 +1,7 @@
 # Vinícius Paes Marcelino
 - 👋 Oi, Eu sou @paes3
 - 👀 Estou interessado em aprender novas tecnologias para crescer profissionalmente!
-- 🌱 Atualmente estou estudando na Alura
+- 🌱 Atualmente estou estudando na Unisul
 -  📫 Como entrar contato comigo ?
 
 ✉️ Email: seapiniv@gmail.com
