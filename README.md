@@ -1,10 +1,10 @@
-# Vinícius Paes Marcelino
-- 👋 Oi, Eu sou @paes3
-- 👀 Estou interessado em aprender novas tecnologias para crescer profissionalmente!
-- 🌱 Atualmente estou estudando na Unisul
--  📫 Como entrar contato comigo ?
+<h1 align="left">Hey, what's up? I`m Vinícius Marcelino 👨‍💻</h1>
 
-✉️ Email: seapiniv@gmail.com
+###
+
+<p align="left">Hello, I am a Front-End Developer learning with the desire to grow in my web programming career, I work well in a team and I have a lot to offer companies. My last projects were PokeDevs from Dev em Dobro and Missão Programação do Zero from DevClub.</p>
+
+###
 
 <h2 align="left">Github Stats</h2>
 
